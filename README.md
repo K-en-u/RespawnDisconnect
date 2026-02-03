@@ -1,4 +1,4 @@
-## ⚠️ 錯誤回報 / Bug Report
+## ⚠️ 錯誤回報 / Error Reporting /エラー報告
 <details>
   <summary><b>繁體中文</b></summary>
   <br>
