@@ -29,6 +29,7 @@ Please provide the following information:
   <summary><b>日本語</b></summary>
   <br>
 ## ⚠️ エラー報告
+  
 問題が発生した場合は、[Issues](https://github.com/K-en-u/RespawnDisconnect/issues) ページで報告してください。
 報告の際は、以下の情報を提供してください：
 * **Mod バージョン** (必須): 例 `RespawnDisconnect-1.21.11-1.0`
