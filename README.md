@@ -1,7 +1,8 @@
+## ⚠️ 錯誤回報 / Bug Report
 <details>
   <summary><b>繁體中文</b></summary>
   <br>
-## ⚠️ 錯誤回報 / Bug Report
+## ⚠️ 錯誤回報
 
 如果您在使用過程中遇到任何問題，請前往 [Issues](https://github.com/K-en-u/RespawnDisconnect/issues) 頁面提交回報。
 回報時請提供以下資訊：
@@ -14,6 +15,8 @@
 <details>
   <summary><b>English</b></summary>
   <br>
+## ⚠️ Error Reporting
+
 If you encounter any issues, please report them on the [Issues](https://github.com/K-en-u/RespawnDisconnect/issues) page.
 Please provide the following information:
 * **Mod Version** (Required): e.g., `RespawnDisconnect-1.21.11-1.0`
@@ -25,6 +28,7 @@ Please provide the following information:
 <details>
   <summary><b>日本語</b></summary>
   <br>
+## ⚠️ エラー報告
 問題が発生した場合は、[Issues](https://github.com/K-en-u/RespawnDisconnect/issues) ページで報告してください。
 報告の際は、以下の情報を提供してください：
 * **Mod バージョン** (必須): 例 `RespawnDisconnect-1.21.11-1.0`
